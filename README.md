@@ -11,11 +11,8 @@
   </div>
   <div>
     <h1>Redes Sociais</h1>
-    <a href = "mailto: weslley.camphos@hotmail.com">
-      <img src='https://icons8.com.br/icon/114157/letter' alt='email'/>
-    </a> 
     <a href = "https://www.linkedin.com/in/herbertguarezi/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt='linkedin'/>
+      <img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt='linkedin'/>
     </a>
   </div>
 </section>
