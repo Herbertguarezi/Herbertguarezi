@@ -2,7 +2,7 @@
 ### I'm a Front-End Developer
 ### Welcome to my GitHub profile
 
-<section style="display: block>
+<div style="display: grid; grid-template-collumns: 1fr 1fr">
   <div>
     <a href="https://github.com/Herbertguarezi">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herbertguarezi&layout=compact&langs_count=7&theme=dracula"/>
@@ -15,4 +15,4 @@
       <img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt='linkedin'/>
     </a>
   </div>
-</section>
+</div>
