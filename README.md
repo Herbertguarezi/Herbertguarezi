@@ -1,29 +1,28 @@
-<div class="containerGlobal">
-    <div class="containerTitulo">
-      <div>
-        <h1 class="titulo" style="margin: 0px;">Hi, my name is Herbert ! </h1>
-        <p class="subtitulo">I'm a Front-End Developer</p>
-      </div>
-    </div>
-    <div class="container">
-      <img src='./coding.gif' />
-      <div class="techs">
-        <div class="techsContent">
-          <h1 class="titulo">Technologies</h1>
-          <div class="techsImg">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-plain-wordmark.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-          </div>
-        </div>
-        <div class="techsContent">
-          <h1 class="titulo">Social Medias</h1>
-          <div class="techsImg">
-            <a href="https://www.linkedin.com/in/herbertguarezi/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
-          </div>
-        </div>
-      </div>
-    </div>
+# Hi, my name is Herbert !
+
+### I'm a Front-End Developer
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Herbertguarezi&show_icons=true&theme=great-gatsby&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herbertguarezi&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="./coding.gif" style='border-radius: 10px'>
+    <p align="center" style='font-family: monospace; font-size: 45; font-weight: bold;'>Technologies</p>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+   </div>
+    
+  <div>
+    <p align="center" style='font-family: monospace; font-size: 45; font-weight: bold;'>Social Media</p>
+      <a href = "mailto: herbertguarezi@gmail.com">
+        <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg">
+      </a>
+      <a href = "https://www.linkedin.com/in/herbertguarezi/">
+        <img  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+      </a>
   </div>
+</div>
