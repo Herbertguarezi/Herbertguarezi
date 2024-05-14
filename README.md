@@ -1,6 +1,6 @@
-# Hi there, my name is Herbert Guarezi
-## Welcome to my GitHub profile
+# Hi there, my name is Herbert Guarezi !
 ### I'm a Front-End Developer
+### Welcome to my GitHub profile
 
 <section style="display: block>
   <div>
@@ -10,6 +10,12 @@
     &show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
   <div>
-    Teste
+    <h1>Redes Sociais</h1>
+    <a href = "mailto: weslley.camphos@hotmail.com">
+      <img src='https://icons8.com.br/icon/114157/letter' alt='email'/>
+    </a> 
+    <a href = "https://www.linkedin.com/in/herbertguarezi/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt='linkedin'/>
+    </a>
   </div>
 </section>
