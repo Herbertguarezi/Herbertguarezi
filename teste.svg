@@ -1,0 +1,106 @@
+<svg fill="none" viewBox="0 0 600 800" width="600" height="800" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        h1,
+        p {
+          margin: 0;
+        }
+
+        .containerGlobal {
+          width: 600px;
+          height: 100%px;
+          background-color: #201b22;
+          padding: 40px;
+        }
+
+        .container {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          gap: 0.5rem;
+          padding: 5px;
+        }
+
+        .containerTitulo {
+          display: inline-block;
+          justify-content: start;
+          align-content: start;
+        }
+
+        img {
+          display: block;
+          max-width: 100%;
+          border-radius: 10px;
+        }
+
+        .titulo {
+          font-weight: normal;
+          font-size: 1.25rem;
+          font-family: monospace;
+          color: #eec4fc;
+          margin-bottom: 10px;
+        }
+
+        .subtitulo {
+          font-weight: normal;
+          font-size: 1rem;
+          font-family: monospace;
+          color: #dc9ff0;
+        }
+
+        .techs {
+          display: grid;
+          justify-content: start;
+          align-content: center;
+          gap: 10px;
+        }
+
+        .techsImg {
+          display: flex;
+          gap: 5px;
+        }
+
+        .techsImg img {
+          width: 40px;
+          height: 40px;
+        }
+      </style>
+
+      <div class="containerGlobal">
+        <div class="container">
+          <div class="containerTitulo">
+            <h1 class="titulo">Hi, my name is Herbert ! </h1>
+            <p class="subtitulo">I'm a Front-End Developer</p>
+          </div>
+          <div>
+              <a href="https://github.com/Herbertguarezi">
+              <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herbertguarezi&layout=compact&langs_count=7&theme=dracula"/>
+              <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Herbertguarezi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+            </div>
+        </div>
+        <div class="container">
+          <img src='./coding.gif' />
+          <div class="techs">
+            <div class="techsContent">
+              <h1 class="titulo">Technologies</h1>
+              <div class="techsImg">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-plain-wordmark.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+              </div>
+            </div>
+            <div class="techsContent">
+              <h1 class="titulo">Social Medias</h1>
+              <div class="techsImg">
+                <a href="https://www.linkedin.com/in/herbertguarezi/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+                <a href = "mailto:herbertguarezi@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
