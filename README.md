@@ -13,7 +13,6 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <div align='left'>
-      <h1 align="center">Redes Sociais</h1>
       <a href = "mailto: weslley.camphos@hotmail.com">
         <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg">
       </a>
