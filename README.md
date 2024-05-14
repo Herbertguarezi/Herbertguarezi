@@ -11,7 +11,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="./coding.gif" style='border-radius: 10px'>
-    <h1 style="font-size:1em;">Technologies</h1>
+    `<h1 style="font-size:1em;">Technologies</h1>`
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -19,7 +19,7 @@
    </div>
     
   <div>
-   <h1 style="font-size:1em;">Social Media</h1>
+   `<h1 style="font-size:1em;">Social Media</h1>`
       <a href = "mailto: herbertguarezi@gmail.com">
         <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg">
       </a>
