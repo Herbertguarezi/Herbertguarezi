@@ -1,1 +1,1 @@
-<img src='./welcome.img'/>
+<img src='./welcome.svg'/>
