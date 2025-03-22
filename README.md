@@ -3,8 +3,8 @@
 ### I'm a Front-End Developer
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Herbertguarezi&show_icons=true&theme=great-gatsby&count_private=true"/>
-  <img align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herbertguarezi&layout=compact&langs_count=8&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Herbertguarezi&show_icons=true&theme=tokyonight&count_private=true&&hide=stars,contribs"/>
+  <img align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herbertguarezi&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 <br>
 
